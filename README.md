@@ -1,4 +1,4 @@
-# Semana OmniStack v7
+# Semana OmniStack 8.0
 
 Construção de uma aplicação do zero utilizando **NodeJS** no back-end.
 
